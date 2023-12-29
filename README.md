@@ -50,14 +50,14 @@ open a web browser and go to http://localhost:8000
 
 ## Application Usage
 
-    1. **Enployee Registration:** Employees sign up for authentication access.
-    2. **Cardholder Status Check:**
-        - If Locked:
-            - Cardholder requests unlocking.
-            - Signs the agreement (PDF).
-            - Receives unlocking date and proceedings number (protocolo) for reference.
-        - If Unlocked:
-            - Cardholder can request a new card copy (in future versions).
+1. **Enployee Registration:** Employees sign up for authentication access.
+2. **Cardholder Status Check:**
+- If Locked:
+    - Cardholder requests unlocking.
+    - Signs the agreement (PDF).
+    - Receives unlocking date and proceedings number (protocolo) for reference.
+- If Unlocked:
+    - Cardholder can request a new card copy (in future versions).
 			
 
 ## FrontPage Area - Logged Out
