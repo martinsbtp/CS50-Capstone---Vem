@@ -35,7 +35,7 @@ Comprise the user interface code for creatig an one-page app and navigating thro
 
 1. **Clone the Repository**
 
-git clone https://github.com/martinsbtp/martinsbtp.git
+[git clone https://github.com/martinsbtp/martinsbtp.git](https://github.com/martinsbtp/CS50-Capstone---Vem-Gratuidade.git)
 
 2. **Install dependencies**
 
