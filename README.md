@@ -63,10 +63,10 @@ open a web browser and go to http://localhost:8000
 ## FrontPage Area - Logged Out
 
 <img src="images/userarea.png" width="600"/>
+
 **Explore the website:**
 
 The user can see the main area with marketing campaings and login area
-
 
 ## Inside User Interface Area - Logged In
 
