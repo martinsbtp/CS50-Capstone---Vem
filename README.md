@@ -1,4 +1,4 @@
-#Project STPP - Vem Gratuidade
+# Project STPP - Vem Gratuidade
 #### Video Demo: <https://youtu.be/Dw_LwJXNPeo>
 
 <img src="images/gratuidade.png" alt= "main image of the home screen "  width="1000" />
