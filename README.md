@@ -62,11 +62,9 @@ open a web browser and go to http://localhost:8000
 
 ## FrontPage Area - Logged Out
 
-<img src="images/userarea.png" width="600"/>
-
 **Explore the website:**
 
-The user can see the main area with marketing campaings and login area
+The user can see the main area with marketing campaings and Login and Signup buttons
 
 ## Inside User Interface Area - Logged In
 
@@ -89,7 +87,6 @@ The user can see the main area with marketing campaings and login area
 ---
 ### Admin
 ---
-<img src="images/settingss.png" width="600"/>
 
 **Admin access** - Admin interface for the IT support to change or update laws rules and user permissions
 
