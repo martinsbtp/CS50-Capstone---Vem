@@ -1,7 +1,7 @@
 # Project STPP - Vem
 #### Video Demo: <https://youtu.be/Dw_LwJXNPeo](https://www.youtube.com/watch?v=ppjT98VvDBA>
 
-<img src="images/gratuidade.png" alt= "main image of the home screen "  width="1000" />
+<img src="images/FrontPage.png" alt= "main image of the home screen "  width="1000" />
 
 ## Project Overview
 To facilitate travel on the metro or bus public system, individuals require a Public Transportation Card (Catao Vem). STPP - Vem Gratuidade is a Web-based Application designed to address the specific needs of indiviuals with free tickets cards, such as those with disabilities, elderly individuals and chidren.
