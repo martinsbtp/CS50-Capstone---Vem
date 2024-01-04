@@ -4,18 +4,17 @@
 <img src="images/gratuidade.png" alt= "main image of the home screen "  width="1000" />
 
 ## Project Overview
-STPP - Vem Gratuidade is a Web-based Application designed to address the specific needs of indiviuals with free tickets cards, such as those with disabilities, elderly individuals and chidren.
+To facilitate travel on the metro or bus public system, individuals require a Public Transportation Card (Catao Vem). STPP - Vem Gratuidade is a Web-based Application designed to address the specific needs of indiviuals with free tickets cards, such as those with disabilities, elderly individuals and chidren.
 The primary purpose is to manage the unlocking process for cards that have been suspended due to rule violations.
 
-To facilitate travel on the metro or bus public system, individuals require a Public Transportation Card (Catao Vem). 
 ### Browse through the website, register, log in and start porcessing unlocking requests.
 
-## Click **Quick Guide** link at the top left of the screen and view the steps to complete a unlock request submitted by a transport user.  
+## The website Front Page shows a tutorial with the steps to complete a unlock request submitted by a transport user.  
 
 ### Distinctiveness and Complexity
 
 **Why the Project is Distinct:**
-This project stands out for its direct response to a real and specific issue within the public transportation system. It tackles the complexity of enforcing laws related to freee benefits by incorporating dynamic rules thta vary based on card type, frequency of rule violarions, and card holder eligibility.
+This project stands out for its direct response to a real and specific issue within the public transportation system. It tackles the complexity of enforcing laws related to free benefits by incorporating dynamic rules that vary based on card type, frequency of rule violarions, and card holder eligibility.
 
 **Complex Aspects:**
 The complexity lies in the nuanced enforcement of four infractiions, each with its own penalty. The rules for unlocking the card are dynamically generated based on the type of infringement, providing a tailored agreement for the cardholder.
